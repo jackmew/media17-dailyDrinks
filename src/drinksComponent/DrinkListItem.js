@@ -21,7 +21,7 @@ export default class DrinkListItem extends Component {
     }
 }
 DrinkListItem.propTypes = {
-    id: PropTypes.number.isRequired,
+    id: PropTypes.string.isRequired,
     name: PropTypes.string.isRequired,
     price: PropTypes.number.isRequired,
     note: PropTypes.string,

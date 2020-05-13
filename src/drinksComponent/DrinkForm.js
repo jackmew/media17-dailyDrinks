@@ -4,7 +4,7 @@ export default class DrinkForm extends Component {
     constructor(props) {
         super(props)
         this.state = {
-            id: props.id || -1  ,
+            id: props.id || ''  ,
             name: props.name || '', // controlled input
             price: props.price || '',
             note: props.note || ''
