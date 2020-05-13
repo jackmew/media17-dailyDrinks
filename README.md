@@ -1,8 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is for [17 media Daily Drinks](https://github.com/17media/frontend-hq/blob/master/pretest2.md).
 
-## Available Scripts
+## create-react-app
 
-In the project directory, you can run:
+just a basic react app
 
 ### `npm start`
 
